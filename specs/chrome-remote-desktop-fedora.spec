@@ -1,6 +1,6 @@
 Name:           chrome-remote-desktop-fedora
 Version:        157.0.8103.19
-Release:        1%{?dist}
+Release:        2%{?dist}
 Summary:        Custom Chrome Remote Desktop for Fedora XFCE
 
 License:        Google Chrome Terms of Service
